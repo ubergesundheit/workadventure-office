@@ -1,4 +1,4 @@
-# WorkAdventure Map for bCyber
+# WorkAdventure Map
 
 This is our map for [WorkAdventure](https://workadventu.re).
 
